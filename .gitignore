@@ -1,0 +1,6 @@
+game-sources.jar
+game.aar
+android/mobilegame/build/
+html/main.wasm
+html/wasm_exec.js
+
